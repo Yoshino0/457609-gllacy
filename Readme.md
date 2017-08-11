@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Катенька Кочергина](https://up.htmlacademy.ru/htmlcss/18/user/457609).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Белов](https://up.htmlacademy.ru/htmlcss/18/user/96038)
 
 ---
 
@@ -28,7 +28,7 @@ _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
 
 #### 3. Клонируйте репозиторий на свой компьютер
 
-Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clone or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
+Будьте внимательны: нужно клонировать свой репозиторий (форк), а не репозиторий Академии. Нажмите кнопку «Clon e or download», а затем «Open in Desktop», чтобы клонировать репозиторий через программу [GitHub Desktop](https://desktop.github.com):
 
 <img width="769" alt="" src="https://user-images.githubusercontent.com/10909/29037747-a8e89422-7bad-11e7-819d-bca9f4c1de18.jpg">
 
